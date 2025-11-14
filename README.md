@@ -5,6 +5,11 @@
 
 A high-performance transaction bundler bot for PumpFun token trading on Solana. This bot optimizes gas fees by bundling multiple transactions into atomic operations, ensuring faster execution and reduced costs.
 
+## Sample Transaction
+
+- [Sample TX](https://solscan.io/tx/2FnuGUJFejjRHwMB497Y4fMraxD9iBuuQrv8h2MhonLNH7tkq1vkqqXu3qKazhmMkpB3jU8ThgEyDAfW689pVC5C)
+
+
 ## Features
 
 - **Transaction Bundling**: Combine multiple operations into single atomic transactions
@@ -72,11 +77,6 @@ npm install  # or pip install -r requirements.txt
 ```bash
 npm start  # or python main.py
 ```
-
-## Sample Transaction
-
-- [Sample TX](https://solscan.io/tx/2FnuGUJFejjRHwMB497Y4fMraxD9iBuuQrv8h2MhonLNH7tkq1vkqqXu3qKazhmMkpB3jU8ThgEyDAfW689pVC5C)
-
 ## 🔧 How It Works
 
 1. **Collect Operations**: Gather multiple trading operations
