@@ -75,9 +75,7 @@ npm start  # or python main.py
 
 ## Sample Transaction
 
-```
-Sample TX: [https://solscan.io/tx/2FnuGUJFejjRHwMB497Y4fMraxD9iBuuQrv8h2MhonLNH7tkq1vkqqXu3qKazhmMkpB3jU8ThgEyDAfW689pVC5C]
-```
+- [Sample TX](https://solscan.io/tx/2FnuGUJFejjRHwMB497Y4fMraxD9iBuuQrv8h2MhonLNH7tkq1vkqqXu3qKazhmMkpB3jU8ThgEyDAfW689pVC5C)
 
 ## 🔧 How It Works
 
