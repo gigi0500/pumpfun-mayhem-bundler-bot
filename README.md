@@ -61,7 +61,7 @@ Native integration with Raydium DEX provides:
 ```bash
 git clone https://github.com/gigi0500/pumpfun-mayhem-bundler-bot.git
 cd pumpfun-mayhem-bundler-bot
-npm install  # or pip install -r requirements.txt
+npm install
 ```
 
 ## Configuration
@@ -75,7 +75,7 @@ npm install  # or pip install -r requirements.txt
 ## Usage
 
 ```bash
-npm start  # or python main.py
+npm start
 ```
 ## 🔧 How It Works
 
